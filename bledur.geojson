@@ -1,6 +1,6 @@
 ﻿{
     "type": "FeatureCollection",
-    "name": "Covid",
+    "name": "DCFM",
     "crs": {
         "type": "name",
         "properties": {
@@ -14,10 +14,7 @@
                 "FID_": 0,
                 "Id": 12,
                 "Nom": "Dakhla-Oued Ed Daha",
-                "1": 1300,
-                "2": 14,
-                "3": 16,
-                "4": 17,
+                "1": 4811
                 "Lon": -14.35745899,
                 "Lat": 22.87426382
             },
