@@ -31,7 +31,7 @@
             "properties": {
                 "FID_": 1,
                 "Id": 11,
-                "Nom": "Laâyoune-Sakia El Hamra​​",
+                "Nom": "Laâyoune-Sakia El Hamra",
                 "1": 0,
                 "2": 8,
                 "3": 8,
@@ -52,7 +52,7 @@
             "properties": {
                 "FID_": 2,
                 "Id": 10,
-                "Nom": "Guelmim Oued Noun​​",
+                "Nom": "Guelmim Oued Noun",
                 "1": 12.1,
                 "2": 0,
                 "3": 0,
@@ -115,7 +115,7 @@
             "properties": {
                 "FID_": 5,
                 "Id": 2,
-                "Nom": "Oriental​​",
+                "Nom": "Oriental",
                 "1": 112.9,
                 "2": 53,
                 "3": 56,
@@ -157,7 +157,7 @@
             "properties": {
                 "FID_": 7,
                 "Id": 3,
-                "Nom": "Fès meknes​​",
+                "Nom": "Fès meknes",
                 "1": 3315,
                 "2": 39,
                 "3": 46,
@@ -241,7 +241,7 @@
             "properties": {
                 "FID_": 11,
                 "Id": 7,
-                "Nom": "Marrakech Safi​​",
+                "Nom": "Marrakech Safi",
                 "1": 1500.5,
                 "2": 106,
                 "3": 113,
